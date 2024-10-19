@@ -1,0 +1,21 @@
+Employee Name,Age,Department,Salary,Country,Address,Gender(M/F),Items Purchased
+A,,Sales,40000,India,,M,Y
+B,32,Admin,,Germany,Assam,M,Y
+C,,Sales,22278,Spain,Delhi,F,N
+D,48,Admin,41000,United States,,F,Y
+E,50,Marketing,,Germany,,F,N
+F,26,PRO,85634,India,Kerala,,N
+G,56,HR,,India,,,Y
+H,40,,38987,United States,Gujarat,M,N
+I,41,HR,57454,Spain,,F,N
+J,29,,41000,United States,,M,Y
+K,47,Marketing,27896,Spain,,,Y
+L,31,PRO,,Germany,Punjab,M,Y
+M,30,PRO,56678,Germany,,M,Y
+N,52,,34678,Germany,,,N
+O,28,Admin,47854,India,Chennai,F,Y
+P,39,HR,,United States,,F,Y
+Q,51,Sales,24900,,,F,Y
+R,44,HR,60000,,,M,N
+S,26,Marketing,19000,India,,M,N
+T,27,Marketing,32000,,,,N
